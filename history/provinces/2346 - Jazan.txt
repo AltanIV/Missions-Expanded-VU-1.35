@@ -1,9 +1,9 @@
 #2346 - Jazan
 
-owner = YEM #Was MFL in ME, might be an issue with the MTs, to check
-controller = YEM
-culture = yemeni_culture
-religion = sunni
+owner = MFL
+controller = MFL
+culture = hejazi_culture
+religion = shiite
 capital = "Jazan"
 trade_goods = grain
 hre = no
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2 
 is_city = yes
-add_core = YEM
+add_core = MFL
+add_core = RSL
 
 discovered_by = muslim
 discovered_by = ottoman

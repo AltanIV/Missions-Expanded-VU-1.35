@@ -1,7 +1,7 @@
 #2472 - Ouargla
 
-owner = OGL
-controller = OGL
+owner = TGT #Was OGL
+controller = TGT #Was OGL
 culture = mozabite
 religion = ibadi
 capital = "Ouargla"

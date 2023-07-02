@@ -1,10 +1,10 @@
 #4280 - Taiz
 
-#owner = RSL
-#controller = RSL
-owner = YEM
-controller = YEM
-add_core = YEM
+owner = RSL
+controller = RSL
+#owner = YEM
+#controller = YEM
+#add_core = YEM
 capital = "Ta'izz"
 culture = yemeni_culture
 #religion = shiite
@@ -15,9 +15,9 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-#add_core = RSL
-#add_core = RAS
-#add_core = ADE
+add_core = RSL
+add_core = RAS
+add_core = ADE
 fort_15th = yes
 center_of_trade = 1
 

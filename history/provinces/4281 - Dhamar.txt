@@ -1,8 +1,7 @@
 #4281 - Dhamar
 
-owner = RAS #ADE in EE
-controller = RAS #ADE in EE
-add_core = RAS
+owner = ADE 
+controller = ADE
 capital = "Dhamar"
 culture = yemeni_culture
 religion = shiite
